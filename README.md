@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>First web page</title>
+		<p>ok</p>
+	</head>
+	<body style="background:skyblue;">
+		<nav>
+			<h1>This is the nav bar</h1>
+		</nav>
+		<h1>Welcome to my web page</h1>
+		<hr>
+		
+		<a href="http://google.com">
+			
+			<button style="color:red;">google</button>
+		
+		</a>
+		
+		<a href="http://youtube.com">
+			
+			<button style="color:red; background:blue;">youtube</button>
+		
+		</a>
+		
+		<a href="http://instagram.com">
+			
+			<button>instagram</button>
+		
+		</a>
+		
+		<p>
+			Video provides a powerful way to help you prove your point.<br> 
+			When you <i>click Online Video</i>, you can paste in the embed code for the video you want to add.<br> 
+			You can also type a keyword to search online for the video that best fits your document.<br>
+			To make your document look professionally produced, <br>
+			Word provides <b>header, footer, cover page</b>, <br>
+			and text box designs that complement each other. <br>
+			For example, you can add a matching cover page, header, and sidebar. <br>
+			Click Insert and then choose the elements you want from the different galleries.<br>
+
+		</p>
+		<h1>My Skills</h1>
+		<ol>
+			<li>C language basics</li>
+			<li>Python basics</li>
+			<li>Java basics</li>
+			<li>SQL basics</li>
+		</ol>
+		<form>
+			<label>   Email:</label>
+			<input type="text">
+			<br>
+			<label>password:</label>
+			<input type="password">
+			<br>
+			<input type="radio" id="Male" value="Malel">
+			<label for="Male">Male</label>
+			
+			
+		</form>
+	</body>
+</html>
